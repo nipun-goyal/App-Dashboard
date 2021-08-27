@@ -1,5 +1,6 @@
 #Ignore all xlsx files
 *.xlsx
+*.csv
 
 #Ignore all pdf file
 *.pdf
